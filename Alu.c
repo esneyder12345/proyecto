@@ -20,3 +20,4 @@ void ORR(long int R0,long int R1,long int R2){
 void SUB(long int R0,long int R1,long int R2){
     R0=R1-R2;
 }
+
